@@ -1,0 +1,6 @@
+#!/bin/sh
+
+xwup -t >/dev/null
+
+exec xpc
+
